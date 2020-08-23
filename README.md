@@ -4,3 +4,7 @@ Here we are taking a small video clip from the TV series named Big Bang Theory i
 One example for detection is shown below-
 
 ![alt text](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/Images/BBT_cast_image.jpg)
+
+If some one whoes identity is not registered in our database will be denoted by a red colour bounding box with Unknown text written over it. Below is the demonstration how is it looks like-
+
+![alt_text](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/Images/sheldon_mother.jpg)
