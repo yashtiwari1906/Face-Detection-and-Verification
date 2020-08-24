@@ -5,6 +5,7 @@ One example for detection is shown below-
 
 ![alt text](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/Images/BBT_cast_image.jpg)
 
-If some one whoes identity is not registered in our database will be denoted by a red colour bounding box with Unknown text written over it. Below is the demonstration how is it looks like-
+This is how it is applied in videos some where it is lacking but by setting threshold value and using more character specific image for forming data base may improve the performance.
 
-![alt_text](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/Images/sheldon_mother.jpg)
+![alt text](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/videos/demonstration_output_video.mp4)
+
