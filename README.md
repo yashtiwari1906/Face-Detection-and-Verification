@@ -7,5 +7,5 @@ One example for detection is shown below-
 
 This is how it is applied in videos some where it is lacking but by setting threshold value and using more character specific image for forming data base may improve the performance.
 
-![![Watch the video]](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/videos/demonstration_output_video.mp4)
+[![Watch the video](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/videos/demonstration_output_video.mp4)
 
