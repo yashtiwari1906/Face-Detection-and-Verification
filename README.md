@@ -5,7 +5,4 @@ One example for detection is shown below-
 
 ![alt text](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/Images/BBT_cast_image.jpg)
 
-This is how it is applied in videos some where it is lacking but by setting threshold value and using more character specific image for forming data base may improve the performance.
-
-[![SC2 Video](https://github.com/yashtiwari1906/Face-Detection-and-Verification/blob/master/videos/demonstration_output_video.mp4)
 
