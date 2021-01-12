@@ -15,6 +15,11 @@ One example for detection is shown below-
 https://drive.google.com/drive/folders/1iVJnedI2jVJxXmJWCDOtSB9J95RwJ5e4?usp=sharing
 In above link all the required images, weights and videos are there which are used in this project.
 
+# How to Run
+- Firstly copy the drive link into your own drive.
+- Run final_collab_BBT.ipynb in google colab.
+- Now after 1 hour your output video will become ready to view.
+
 # Refferences
 - https://github.com/shaoanlu/face_toolbox_keras
 - https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_S3FD_Single_Shot_ICCV_2017_paper.pdf
